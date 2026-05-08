@@ -12,7 +12,7 @@ Weekly C++ programs covering OOP, inheritance, pointers, DSA and more.
 
 | Week | Topic | Programs |
 |------|-------|----------|
-| Week 02 | OOP - Classes & Inheritance | 4 |
+| Week 03 | OOP - Classes & Inheritance | 6 |
 
 ---
 
