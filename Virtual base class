@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+class Parent{
+	protected:
+		int n;
+		
+};
+class C1:virtual public Parent{
+};
+class C2:virtual  public Parent{
+};
+class B:public C1,public C2{
+	public:
+	void set(){
+		n = 30 ;
+		cout<< "N = "<< n << endl;
+	}
+};
+int main(){
+	B obj;
+	obj.set();
+}
