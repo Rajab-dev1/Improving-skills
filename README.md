@@ -12,7 +12,7 @@ Weekly C++ programs covering OOP, inheritance, pointers, DSA and more.
 
 | Week | Topic | Programs |
 |------|-------|----------|
-| Week 03 | OOP - Classes & Inheritance | 6 |
+| Week 5| OOP - POlymorphism - Virtual class | 12 |
 
 ---
 
